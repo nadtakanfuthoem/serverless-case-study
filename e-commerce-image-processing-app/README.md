@@ -1,5 +1,5 @@
 🛍️ Scenario: E-Commerce Image Processing App
-<img src="/e-commerce-image-processing-app.png/">
+<img src="/E-Commerce Image Processing App.png">
 
 Use Case:
 You run an e-commerce platform where vendors upload product images. You want to automatically resize these images into multiple sizes (thumbnail, medium, large) for responsive display on different devices.
