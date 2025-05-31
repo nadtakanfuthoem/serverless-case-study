@@ -47,3 +47,5 @@ No server management: Lambda and S3 handle scaling and availability.
 Cost-efficient: You only pay when files are uploaded (compute and storage).
 
 Auto-scalable: Can handle thousands of image uploads per second during peak times.
+
+Credit: ChatGPT
