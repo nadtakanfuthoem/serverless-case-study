@@ -1,6 +1,6 @@
 🛍️ Scenario: E-Commerce Image Processing App
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/A3qPW2iNR54))
+[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://i9.ytimg.com/vi/A3qPW2iNR54/mqdefault.jpg?v=683b716a&sqp=CNTi7cEG&rs=AOn4CLDWLYbvu2ZNzy5RaP-g-mTqvUlbPA))]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/A3qPW2iNR54))
 
 
 <img src="E-Commerce Image Processing App.png">
