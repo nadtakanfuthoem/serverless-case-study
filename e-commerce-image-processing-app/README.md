@@ -1,8 +1,5 @@
 🛍️ Scenario: E-Commerce Image Processing App
-
 [![Watch the video](https://img.youtube.com/vi/A3qPW2iNR54/0.jpg)](https://www.youtube.com/watch?v=A3qPW2iNR54)
-
-<img src="E-Commerce Image Processing App.png">
 
 Use Case:
 You run an e-commerce platform where vendors upload product images. You want to automatically resize these images into multiple sizes (thumbnail, medium, large) for responsive display on different devices.
@@ -19,6 +16,7 @@ Metadata logging (e.g., upload time, dimensions)
 Low cost and scalable to handle traffic spikes during sales
 
 🏗️ Serverless Architecture
+<img src="E-Commerce Image Processing App.png">
 Component	Technology
 Image Upload Trigger	Amazon S3 (Simple Storage Service)
 Compute Logic	AWS Lambda (Image Resizer Function)
