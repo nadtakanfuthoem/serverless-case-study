@@ -1,4 +1,5 @@
 🛍️ Scenario: E-Commerce Image Processing App
+
 [![Watch the video](https://img.youtube.com/vi/A3qPW2iNR54/0.jpg)](https://www.youtube.com/watch?v=A3qPW2iNR54)
 
 Use Case:
